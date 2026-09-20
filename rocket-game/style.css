@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: 'Consolas', monospace;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(13, 17, 23, 0.85);
+  color: #58a6ff;
+  text-align: center;
+  z-index: 10;
+}
+
+.overlay h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #58a6ff;
+}
+
+.overlay p {
+  margin: 0.4rem 0;
+  font-size: 1rem;
+}
+
+#startBtn {
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  background: #238636;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#startBtn:hover {
+  background: #2ea043;
+}

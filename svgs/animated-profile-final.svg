@@ -64,14 +64,14 @@
       <g clip-path="url(#l1-clip)"><text y="0"><tspan class="keyword">import</tspan> sys</text></g>
       <g clip-path="url(#l2-clip)"><text y="20"><tspan class="keyword">from</tspan> core <tspan class="keyword">import</tspan> Developer, Education</text></g>
       
-      <g clip-path="url(#l3-clip)"><text y="45"><tspan class="var">akilesh</tspan> = Developer(</text></g>
-      <g clip-path="url(#l4-clip)"><text y="65">    name=<tspan class="string">"Akilesh Kumar S"</tspan>,</text></g>
-      <g clip-path="url(#l5-clip)"><text y="85">    roles=[<tspan class="string">"Full-Stack"</tspan>, <tspan class="string">"AI Eng"</tspan>, <tspan class="string">"AI Trainee"</tspan>],</text></g>
-      <g clip-path="url(#l6-clip)"><text y="105">    univ=<tspan class="string">"SRM Valliammai Engineering College"</tspan>,</text></g>
-      <g clip-path="url(#l7-clip)"><text y="125">    edu=<tspan class="string">"B.Tech AI &amp; Data Science (2027)"</tspan></text></g>
+      <g clip-path="url(#l3-clip)"><text y="45"><tspan class="var">david</tspan> = Developer(</text></g>
+      <g clip-path="url(#l4-clip)"><text y="65">    name=<tspan class="string">"DAVID SANCHEZ"</tspan>,</text></g>
+      <g clip-path="url(#l5-clip)"><text y="85">    roles=[<tspan class="string">"AI &amp; Data Science"</tspan>, <tspan class="string">"Cloud"</tspan>, <tspan class="string">"GenAI"</tspan>],</text></g>
+      <g clip-path="url(#l6-clip)"><text y="105">    location=<tspan class="string">"Chennai, India"</tspan>,</text></g>
+      <g clip-path="url(#l7-clip)"><text y="125">    focus=<tspan class="string">"Data Engineering &amp; ML"</tspan></text></g>
       <g clip-path="url(#l8-clip)"><text y="145">)</text></g>
       
-      <g clip-path="url(#l9-clip)"><text y="175"><tspan class="var">akilesh</tspan>.compile()</text></g>
+      <g clip-path="url(#l9-clip)"><text y="175"><tspan class="var">david</tspan>.compile()</text></g>
       
       <g clip-path="url(#l10-clip)"><text y="205"><tspan class="success">[SUCCESS]</tspan> Profile deployed.</text></g>
       
@@ -85,15 +85,15 @@
     <!-- Shifted down 10px more to perfectly center with the newly sized 280px terminal -->
     <text x="0" y="55" class="exp-title">EXPERIENCE</text>
 
-    <!-- Hexaware -->
-    <text x="0" y="95" class="exp-role">Hexaware Technologies <tspan fill="#8B949E">—</tspan> SDE Intern</text>
-    <text x="400" y="95" class="exp-date">June 2026 <tspan fill="#8B949E">—</tspan> Present</text>
+    <!-- Experience -->
+    <text x="0" y="95" class="exp-role">[Company Name] <tspan fill="#8B949E">—</tspan> [Role]</text>
+    <text x="400" y="95" class="exp-date">[Start Date] <tspan fill="#8B949E">—</tspan> [End Date]</text>
     
-    <text x="0" y="125" class="exp-skills">Java Spring Boot <tspan class="dot">·</tspan> React <tspan class="dot">·</tspan> MySQL</text>
+    <text x="0" y="125" class="exp-skills">Cloud <tspan class="dot">·</tspan> Data Engineering <tspan class="dot">·</tspan> Machine Learning</text>
     
     <!-- Details -->
-    <text x="0" y="155" class="exp-skills" fill="#58A6FF" font-size="12">> Architecting scalable E-commerce platforms</text>
-    <text x="0" y="175" class="exp-skills" fill="#58A6FF" font-size="12">> Full-stack system integration &amp; database design</text>
-    <text x="0" y="195" class="exp-skills" fill="#58A6FF" font-size="12">> Driving performance optimizations in backend APIs</text>
+    <text x="0" y="155" class="exp-skills" fill="#58A6FF" font-size="12">> [Project/Responsibility 1]</text>
+    <text x="0" y="175" class="exp-skills" fill="#58A6FF" font-size="12">> [Project/Responsibility 2]</text>
+    <text x="0" y="195" class="exp-skills" fill="#58A6FF" font-size="12">> [Project/Responsibility 3]</text>
   </g>
 </svg>
