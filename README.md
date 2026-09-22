@@ -1,4 +1,4 @@
-<p style="text-align:center;">🌐 LIVE PROJECT: https://davidsanchez19.github.io/David_Sanchez19/</p>
+<p style="text-align:center;">🌐 LIVE PROJECT: https://davidsanchez19.github.io/davidsanchez19/</p>
 <div align="center">
 
 <img src="./svgs/david-banner.svg?v=1" width="860" alt="DAVID SANCHEZ" />
